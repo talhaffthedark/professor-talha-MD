@@ -1,12 +1,12 @@
 {
   "name": "PROFESSOR TALHA MD🤍",
   "version": "4.5.0",
-  "description": "A WhatsApp Bot Created By PROFESSOR TALHA MD🤍",
+  "description": "A WhatsApp Bot Created By PROFESSOR-TALHA-MD",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name PROFESSOR TALHA MD🤍",
-    "stop": "pm2 stop PROFESSOR TALHA MD🤍",
-    "restart": "pm2 restart PROFESSOR TALHA MD🤍"
+    "start": "pm2 start index.js --deep-monitoring --attach --name PROFESSOR-TALHA-MD",
+    "stop": "pm2 stop PROFESSOR-TALHA-MD",
+    "restart": "pm2 restart PROFESSOR-TALHA-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:baileys-pro@latest",
